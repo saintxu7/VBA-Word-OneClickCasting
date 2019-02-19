@@ -18,3 +18,4 @@ Casting:简称为Ca数。按照知乎的行业黑话解释，就是计算 审计
 
 一键Ca数.zip只包含一份doc文档和excel文档，完全是一键式、傻瓜式、安全绿色、无需安装的。
 ![image](https://github.com/saintxu7/VBA-Word-OneClickCasting/blob/master/4.png)
+ KPMG的同事，请到Common Drive查找关键字“oneclickcasting”文件夹，Copy整个file到Local即可使用
